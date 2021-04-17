@@ -1,0 +1,78 @@
+body {
+
+width: 4000px;
+height: 2000px;
+
+background-image:
+url('https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif'),
+url('https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif'),
+url('https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif'),
+url('https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif'),
+url('https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif'),
+
+url('https://i.imgur.com/uhBNqiC.jpg'),
+url('https://i.imgur.com/hBzapQ2.jpg'),
+url('https://i.imgur.com/3F7KEJy.jpg'),
+url('https://i.imgur.com/LvHjLbV.jpg'),
+url('https://i.imgur.com/HaHqcH0.jpg'),
+url('https://i.imgur.com/zjX6z95.jpg'),
+url('https://i.imgur.com/G2EW9Zt.jpg'),
+url('https://i.imgur.com/MCt2z6O.jpg'),
+url('https://i.imgur.com/rsGWGOK.jpg'),
+url('https://i.imgur.com/bzrLRN8.jpg'),
+url('https://i.imgur.com/WdoO4bB.jpg'),
+url('https://media.giphy.com/media/ghIKdqZqoNCRkQ9Yx5/giphy.gif'),
+url('https://i.imgur.com/4VNeLQe.jpg'),
+url('https://i.imgur.com/4Eaz4Qn.jpg');
+
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+
+300px 800px,
+3700px 1200px,
+2500px 100px,
+1300px 1500px,
+3000px 1700px,
+
+2000px 500px,
+400px 200px,
+2600px 1000px,
+1000px 900px,
+600px 1800px,
+1500px 600px,
+300px 600px,
+3500px 900px,
+2500px 1500px,
+1000px 300px,
+50px 1500px,
+3050px 1px,
+100px 50px,
+0px 0px;
+
+background-size:
+auto,
+auto,
+auto,
+auto,
+auto,
+
+300px 250px,
+225px 350px,
+400px 325px,
+375px 325px,
+250px 200px,
+1000px 1600px,
+500px 350px,
+400px 400px,
+450px 300px,
+600px 400px,
+500px 300px,
+auto,
+3000px 1500px,
+4100px 2100px;
+
+}
